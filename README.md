@@ -38,11 +38,5 @@ Just open `index.html` in a browser.
 - Tablet: 768px – 1024px  
 - Desktop: > 1024px  
 
-## 📄 License
-
-This project is open source under the [MIT License](LICENSE).
-
----
-
 **Developed by Md. Al Amin**  
 🔗 [GitHub](https://github.com/alaminshubo) | [LinkedIn](https://www.linkedin.com/in/md-al-amin-46bab6315/)
